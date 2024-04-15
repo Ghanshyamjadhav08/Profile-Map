@@ -1,0 +1,75 @@
+{
+    "profiles": [
+      {
+        "id": 1,
+        "name": "Aarav Patel",
+        "photo": "dia-sharma.jpg",
+        "description": "Software Developer",
+        "address": "123 Park Street, Bangalore, Karnataka"
+      },
+      {
+        "id": 2,
+        "name": "Aarya Sharma",
+        "photo": "dia-sharma.jpg",
+        "description": "Data Scientist",
+        "address": "456 Lake Road, Mumbai, Maharashtra"
+      },
+      {
+        "id": 3,
+        "name": "Aditi Singh",
+        "photo": "dia-sharma.jpg",
+        "description": "Graphic Designer",
+        "address": "789 Hill Avenue, New Delhi, Delhi"
+      },
+      {
+        "id": 4,
+        "name": "Aryan Gupta",
+        "photo": "dia-sharma.jpg",
+        "description": "Marketing Manager",
+        "address": "101 River Lane, Kolkata, West Bengal"
+      },
+      {
+        "id": 5,
+        "name": "Dia Sharma",
+        "photo": "dia-sharma.jpg",
+        "description": "Content Writer",
+        "address": "321 Mountain View, Chennai, Tamil Nadu"
+      },
+      {
+        "id": 6,
+        "name": "Kabir Khan",
+        "photo": "dia-sharma.jpg",
+        "description": "Software Engineer",
+        "address": "567 Garden Lane, Hyderabad, Telangana"
+      },
+      {
+        "id": 7,
+        "name": "Ananya Desai",
+        "photo": "dia-sharma.jpg",
+        "description": "UX/UI Designer",
+        "address": "890 Riverside Drive, Ahmedabad, Gujarat"
+      },
+      {
+        "id": 8,
+        "name": "Rahul Mehta",
+        "photo": "dia-sharma.jpg",
+        "description": "Business Analyst",
+        "address": "111 Ocean View, Jaipur, Rajasthan"
+      },
+      {
+        "id": 9,
+        "name": "Neha Singh",
+        "photo": "dia-sharma.jpg",
+        "description": "Software Tester",
+        "address": "222 Sunset Boulevard, Lucknow, Uttar Pradesh"
+      },
+      {
+        "id": 10,
+        "name": "Vivek Verma",
+        "photo": "dia-sharma.jpg",
+        "description": "Digital Marketer",
+        "address": "333 Forest Street, Bhopal, Madhya Pradesh"
+      }
+    ]
+  }
+  

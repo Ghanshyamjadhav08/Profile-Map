@@ -1,0 +1,48 @@
+/* profile.css */
+
+.profile {
+  display: flex;
+  flex-direction: column; /* Change flex direction to column for mobile */
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  
+}
+
+.profile img {
+  width: 100%; /* Adjust image width to fill container */
+  height: auto;
+  border-radius: 5px;
+}
+
+.profile h2 {
+  margin: 10px 0;
+}
+
+.profile p {
+  margin: 5px 0;
+}
+
+/* Media queries for tablet and mobile */
+
+@media screen and (min-width: 768px) {
+  .profiles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .profile {
+    width: 45%; /* Adjust width for tablets */
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .profile {
+    width: 100%; /* Set width to 100% for mobile */
+    margin-bottom: 20px; /* Add margin between profile cards */
+  }
+}
